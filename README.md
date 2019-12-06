@@ -1,0 +1,2 @@
+# cs485
+Based on the previously proposed Global Epidemic and Mobility Model (GLEaM), this paper first makes a few changes to the GLEaM including the Division of Infectious compartment and transition between two type of infectious state.  With the new variant of the model, this paper then simulates the propagation of infectious disease in the United State under different conditions. Then, using data set of airports in United State, this paper compares a few possible measures in preventing and controlling the spread of disease through the US air traffic network.
